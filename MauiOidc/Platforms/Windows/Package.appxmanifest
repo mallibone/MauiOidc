@@ -22,7 +22,7 @@
 
   <Applications>
     <Application Id="App" Executable="$targetnametoken$.exe" EntryPoint="$targetentrypoint$">
-      <uap:VisualElements  DisplayName="Maui OIDC" Description="Maui OIDC">
+      <uap:VisualElements  DisplayName="OIDC Maui" Description="OIDC Maui">
         <uap:DefaultTile/>
       </uap:VisualElements >
 		<Extensions>
